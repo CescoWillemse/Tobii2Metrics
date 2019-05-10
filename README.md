@@ -1,8 +1,8 @@
-## Generates metrics file from Tobii .tsv raw data output.
+# Generates metrics file from Tobii .tsv raw data output.
 
 Uses PyGazeAnalyser - Copyright (C) 2014  Edwin S. Dalmaijer - https://github.com/esdalmaijer/PyGazeAnalyser
 
-# Requires the following user inputs:
+## Requires the following user inputs:
 - Path to pygaze PyGazeAnalyser
 - Path of input tsv file
 - Output path and filename
